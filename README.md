@@ -13,6 +13,6 @@ Requirements
 - IDE (e.g., VS Code, Eclipse, or IntelliJ).
 
 How to Run
-Copy the code into a Java file named "InclinedPlaneSimulation.java".
-Compile the program: "javac InclinedPlaneSimulation.java".
-Run the program: "java InclinedPlaneSimulation".
+- Copy the code into a Java file named "InclinedPlaneSimulation.java".
+- Compile the program: "javac InclinedPlaneSimulation.java".
+- Run the program: "java InclinedPlaneSimulation".
