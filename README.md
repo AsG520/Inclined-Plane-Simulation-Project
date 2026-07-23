@@ -5,6 +5,11 @@ Visual of Simulation
 Features in Simulation
 
 Physics & Math Concepts in Simulation
+- Trigonometric Functions (Sine & Cosine).
+- Kinetic Friction (Fk).
+- Force of Gravity (Fg, FgX, FgY).
+- Normal Force (Fn).
+- Newton's Second Law of Motion (F = ma).
 
 How it Works
 
