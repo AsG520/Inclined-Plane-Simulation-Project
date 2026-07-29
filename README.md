@@ -1,6 +1,7 @@
 # Inclined-Plane-Simulation-Project
 
 ## Visual of Simulation
+<img width="638" height="443" alt="Image" src="https://github.com/user-attachments/assets/a2ce4149-d1a6-488c-beab-c18e9eaea70b" />
 
 ## Features in Simulation
 - Inclined ramp, floor, and ball are designed from paint method.
@@ -24,7 +25,7 @@
 - Force of friction acts in the opposite direction slowing down the motion of the ball.
 - Net force in vertical and horizontal direction update the position of ball.
 - Models a free-body diagram for all forces acting on the ball from programming.
-
+  
 ## Requirements
 - Java (JDK or higher).
 - IDE (e.g., VS Code, Eclipse, or IntelliJ).
