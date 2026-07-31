@@ -34,3 +34,8 @@
 - Copy the code into a Java file named "InclinedPlaneSimulation.java".
 - Compile the program: "javac InclinedPlaneSimulation.java".
 - Run the program: "java InclinedPlaneSimulation".
+
+## Video Details for Simulation
+I plan to make a YouTube video that will showcase the history behind the incline planes, more deep explanation of how I programmed the project, and share general physics knowledge relating to the topic. This video will help give me a reflection on what I learned and for others who are interested in this particular subject and simulation :D.
+
+Video Link of Simulating a Inclined Plane in Java (YouTube) - [Coming Soon!].
