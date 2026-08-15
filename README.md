@@ -1,13 +1,13 @@
-# 🪤 Inclined-Plane-Simulation-Project
+# 🪤 Inclined Plane Simulation Project
 
 ## 📘 Table of Contents
-- Visual of Simulation
-- Features in Simulation
-- Physics & Math Concepts in Simulation
-- How it Works
-- Requirements
-- How to Run
-- Video Details for Simulation
+- 🎨 Visual of Simulation
+- 🔥 Features in Simulation
+- 📝 Physics & Math Concepts in Simulation
+- 🛠️ How it Works
+- 🎯 Requirements
+- 💻 How to Run
+- 📹 Video Details for Simulation
 
 ## 🎬 Short Clip of Simulation
 https://github.com/user-attachments/assets/2ee37dbd-8cbd-457f-a4ef-7f9c7bbf999c
